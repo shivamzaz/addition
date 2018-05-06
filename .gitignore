@@ -1,2 +1,4 @@
+*.py[codt]
+
 math_addition.egg-info/
 haveit/
