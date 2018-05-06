@@ -26,18 +26,19 @@ def read(fname):
 
 
 MODULE = "addition"
-PREFIX = "math"
+PREFIX = "shivam"
 
 
 setup(
     name='%s_%s' % (PREFIX, MODULE),
-    version='1.0',
+    version='3.0',
     packages=['addition'],
     url='https://www.github.com/shivamzaz/addition',
     license='MIT',
     author='Shivam Gupta',
     author_email='shivam.gupta712@gmail.com',
     description='Math Addition',
+    long_description = 'kindly check description at https://www.github.com/shivamzaz/addition',
     zip_safe=False,
     classifiers=[
         'Development Status :: 1 - Planning',
