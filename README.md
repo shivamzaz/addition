@@ -6,4 +6,5 @@ package for add two numbers
 from addition.add import add
 
 add(2,3)
- 5
+
+5
