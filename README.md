@@ -2,7 +2,7 @@
 package for add two numbers
 
 
-Usage:
+## Usage:
  from addition.add import add
  add(2,3)
- >> 5s
+ 5
